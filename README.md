@@ -1,1 +1,1 @@
-# red-snake soon tm
+# it's a video game!
